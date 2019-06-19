@@ -23,12 +23,12 @@ Readme : explanation of project and tools used
 ## Feature and model
 
 I have used a Logistic Regression model tuned the regularization parameter, using 3-fold cross validation. I splitted dataset in training and testing set (80-20).
- The features used ("userAgent", "gender", "page","level","Churn") were engineering with a stringIndexer.
+The features used ("userAgent", "gender", "page","level","Churn") were engineering with a stringIndexer.
 
 ## Blog Post Link
 Tba
 
 ## References
-Dataset provided by Udacity.
+Dataset provided by Udacity (s3n://udacity-dsnd/sparkify/sparkify_event_data.json)
 
 Official pySpark documentation has also been used "https://spark.apache.org/docs/latest/api/python/index.html"
