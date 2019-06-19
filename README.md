@@ -26,7 +26,7 @@ I have used a Logistic Regression model tuned the regularization parameter, usin
 The features used ("userAgent", "gender", "page","level","Churn") were engineering with a stringIndexer.
 
 ## Blog Post Link
-https://medium.com/@neoxData/how-to-predict-customer-churn-on-huge-dataset-cd36ea15e3ac
+[Sparkify_blog](https://medium.com/@neoxData/how-to-predict-customer-churn-on-huge-dataset-cd36ea15e3ac)
 
 ## References
 Dataset provided by Udacity (s3n://udacity-dsnd/sparkify/sparkify_event_data.json)
